@@ -5,7 +5,7 @@
 - ネットで見つけたレシピのリンクを管理するためのメモ
 
 ## ③アプリのデプロイURL
-デプロイしている場合はURLを記入（任意）
+https://aikohayashi1224-sd.github.io/kadai03_memo/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 
